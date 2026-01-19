@@ -9,97 +9,138 @@ The goal is to create **production-style security artifacts**, showing best prac
 
 ## Repository Structure
 
-phase-1-identity-network-visibility/
-├── day-01-iam-core/
-│   ├── iam-core.md              # Day 1 deliverable
-│   └── screenshots/             # Screenshots of IAM setup
-├── day-02-iam-advanced/
-│   ├── iam-advanced.md          # Day 2 deliverable
-│   └── screenshots/             # Policy conditions, Policy Simulator, Access Analyzer
-├── day-03-vpc-core/
-│   ├── vpc-core.md              # Day 3 deliverable
-│   └── screenshots/
-├── day-04-iam-vpc-control/
-│   ├── iam-vpc-control.md       # Day 4 deliverable
-│   └── screenshots/
-├── day-05-vpc-traffic/
-│   ├── vpc-traffic.md           # Day 5 deliverable
-│   └── screenshots/
-├── day-06-logging/
-│   ├── logging.md               # Day 6 deliverable
-│   └── screenshots/
-├── day-07-encryption/
-│   ├── encryption.md            # Day 7 deliverable
-│   └── screenshots/
-├── day-08-secure-access-lab/
-│   ├── ssm-lab.md               # Day 8 deliverable
-│   └── screenshots/
-├── day-09-review/
-│   ├── review.md                # Day 9 deliverable
-│   └── screenshots/
-phase-2-managed-security-workloads/
-├── day-10-inspector/
-│   ├── inspector.md
-│   └── screenshots/
-├── day-11-edge-security/
-│   ├── edge-security.md
-│   └── screenshots/
-├── day-12-threat-detection/
-│   ├── threat-detection.md
-│   └── screenshots/
-├── day-13-centralized-security/
-│   ├── centralized-security.md
-│   └── screenshots/
-├── day-14-serverless-security/
-│   ├── serverless-security.md
-│   └── screenshots/
-├── day-15-containers/
-│   ├── containers.md
-│   └── screenshots/
-├── day-16-auditing/
-│   ├── auditing.md
-│   └── screenshots/
-├── day-17-detection-lab/
-│   ├── detection-lab.md
-│   └── screenshots/
-├── day-18-19-catchup/
-│   ├── catchup.md
-│   └── screenshots/
-phase-3-governance-identity/
-├── day-20-organizations-scps/
-│   ├── organizations-scps.md
-│   └── screenshots/
-├── day-21-advanced-iam/
-│   ├── advanced-iam.md
-│   └── screenshots/
-├── day-22-identity-center/
-│   ├── identity-center.md
-│   └── screenshots/
-├── day-23-customer-identity/
-│   ├── customer-identity.md
-│   └── screenshots/
-├── day-24-resource-governance/
-│   ├── resource-governance.md
-│   └── screenshots/
-├── day-25-advanced-vpc/
-│   ├── advanced-vpc.md
-│   └── screenshots/
-├── day-26-scp-lab/
-│   ├── scp-lab.md
-│   └── screenshots/
-phase-4-incident-response-capstone/
-├── day-27-threat-hunting/
-│   ├── threat-hunting.md
-│   └── screenshots/
-├── day-28-automation/
-│   ├── automation.md
-│   └── screenshots/
-├── day-29-capstone-project/
-│   ├── secure-baseline.md
-│   └── screenshots/
-├── day-30-review/
-│   ├── final-review.md
-│   └── screenshots/
+## Phase 1 – Identity, Network & Visibility (Days 1–9)
+
+day-01-iam-core/
+├── iam-core.md
+└── screenshots/
+
+day-02-iam-advanced/
+├── iam-advanced.md
+└── screenshots/
+
+day-03-vpc-core/
+├── vpc-core.md
+└── screenshots/
+
+day-04-iam-vpc-control/
+├── iam-vpc-control.md
+└── screenshots/
+
+day-05-vpc-traffic/
+├── vpc-traffic.md
+└── screenshots/
+
+day-06-logging/
+├── logging.md
+└── screenshots/
+
+day-07-encryption/
+├── encryption.md
+└── screenshots/
+
+day-08-secure-access-lab/
+├── ssm-lab.md
+└── screenshots/
+
+day-09-review/
+├── review.md
+└── screenshots/
+
+
+---
+
+## Phase 2 – Managed Security & Workloads (Days 10–19)
+
+day-10-inspector/
+├── inspector.md
+└── screenshots/
+
+day-11-edge-security/
+├── edge-security.md
+└── screenshots/
+
+day-12-threat-detection/
+├── threat-detection.md
+└── screenshots/
+
+day-13-centralized-security/
+├── centralized-security.md
+└── screenshots/
+
+day-14-serverless-security/
+├── serverless-security.md
+└── screenshots/
+
+day-15-containers/
+├── containers.md
+└── screenshots/
+
+day-16-auditing/
+├── auditing.md
+└── screenshots/
+
+day-17-detection-lab/
+├── detection-lab.md
+└── screenshots/
+
+day-18-19-catchup/
+├── catchup.md
+└── screenshots/
+
+
+---
+
+## Phase 3 – Governance & Identity (Days 20–26)
+
+day-20-organizations-scps/
+├── organizations-scps.md
+└── screenshots/
+
+day-21-advanced-iam/
+├── advanced-iam.md
+└── screenshots/
+
+day-22-identity-center/
+├── identity-center.md
+└── screenshots/
+
+day-23-customer-identity/
+├── customer-identity.md
+└── screenshots/
+
+day-24-resource-governance/
+├── resource-governance.md
+└── screenshots/
+
+day-25-advanced-vpc/
+├── advanced-vpc.md
+└── screenshots/
+
+day-26-scp-lab/
+├── scp-lab.md
+└── screenshots/
+
+
+---
+
+## Phase 4 – Incident Response & Capstone (Days 27–30)
+
+day-27-threat-hunting/
+├── threat-hunting.md
+└── screenshots/
+
+day-28-automation/
+├── automation.md
+└── screenshots/
+
+day-29-capstone-project/
+├── secure-baseline.md
+└── screenshots/
+
+day-30-review/
+├── final-review.md
+└── screenshots/
 
 
 - Each **day folder** contains:
