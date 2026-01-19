@@ -147,7 +147,7 @@ day-30-review/
 - Each **day folder** contains:
   1. A `.md` file with step-by-step documentation of the security task.
   2. A `screenshots/` folder showing proof of configurations in AWS.
-- This structure makes it easy for anyone to follow your learning journey day by day.
+
 
 ---
 
