@@ -142,6 +142,7 @@ day-30-review/
 ├── final-review.md
 └── screenshots/
 
+---
 
 - Each **day folder** contains:
   1. A `.md` file with step-by-step documentation of the security task.
